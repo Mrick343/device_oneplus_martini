@@ -93,4 +93,6 @@
     <!-- Path to fast charging status file to detect whether an oem fast charger is active -->
     <string name="config_oemFastChargerStatusPath" translatable="false">/sys/class/oplus_chg/battery/voocchg_ing</string>
 
+    <!-- NightLight FOD -->
+    <bool name="disable_fod_night_light">true</bool>
 </resources>
