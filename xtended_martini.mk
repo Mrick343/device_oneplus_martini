@@ -37,8 +37,7 @@ PRIVATE_BUILD_DESC="OnePlus9RT-user 13 TP1A.220905.001 R.df3fd4-1-4:user release
     
 BUILD_FINGERPRINT := OnePlus/OnePlus9RT/OP5155L1:13/TP1A.220905.001/R.df3fd4-1-4:user/release-keys
 
-# UDFPS animations
-EXTRA_UDFPS_ANIMATIONS := true
+
 
 # SoC
 PROCESSOR_MODEL := SM8350
