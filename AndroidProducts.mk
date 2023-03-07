@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_martini.mk
+    $(LOCAL_DIR)/aosp_martini.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_martini-user \
-    xtended_martini-userdebug \
-    xtended_martini-eng
+    aosp_martini-user \
+    aosp_martini-userdebug \
+    aosp_martini-eng
